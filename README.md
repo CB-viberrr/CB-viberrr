@@ -9,7 +9,7 @@
 | 💸 | **[PayUp](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/payup.md)** · [live](https://www.yopayup.com) | Shared expenses split right in 162 currencies, from a sentence or a receipt photo; safe AI-assistant access via MCP. |
 | 📷 | **[charlesbingaman.com](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)** · [live](https://www.charlesbingaman.com) | Photography portfolio, client delivery and photo map in one, with free subject-aware cropping and location privacy by design. |
 | 🛠️ | **[Hackathon template](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/hackathon-template.md)** | One command turns an idea and a team list into a live, secure, multi-person app. |
-| 🌙 | **[What's the Move Boston](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/whatsthemove.md)** · [live](https://whatsthemoveboston.com) · [code](https://github.com/CB-viberrr/whatsthemove) | Personal and group plans for tonight, with voting, built by an 8-person team in 90 minutes. |
+| 🌙 | **[What's the Move Boston](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/whatsthemove.md)** · [live](https://whatsthemoveboston.com) | Personal and group plans for tonight, with voting, built by an 8-person team in 90 minutes. |
 
 All case studies: **[portfolio](https://github.com/CB-viberrr/portfolio)**. Code for private projects is available on request.
 
