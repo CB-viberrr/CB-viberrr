@@ -8,7 +8,7 @@
 | 🎧 | **[FirstCall](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/firstcall.md)** · [live](https://firstcall-psi.vercel.app) | Gen AI training that cuts call-center transfers: AI customer calls, live copilot, debriefs on first-contact resolution and NPS. Built in one day. |
 | 💸 | **[PayUp](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/payup.md)** · [live](https://www.yopayup.com) | Shared expenses split right in 162 currencies, from a sentence or a receipt photo; safe AI-assistant access via MCP. |
 | 📷 | **[charlesbingaman.com](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)** · [live](https://www.charlesbingaman.com) | Photography portfolio, client delivery and photo map in one, with free subject-aware cropping and location privacy by design. |
-| 🛠️ | **Hackathon template** | One command turns an idea and a team list into a live, secure, multi-person app. |
+| 🛠️ | **[Hackathon template](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/hackathon-template.md)** | One command turns an idea and a team list into a live, secure, multi-person app. |
 | 🌙 | **[What's the Move Boston](https://whatsthemoveboston.com)** | Personal and group plans for tonight, with voting, built by an 8-person team in 90 minutes. |
 
 All case studies: **[portfolio](https://github.com/CB-viberrr/portfolio)**. Code for private projects is available on request.
