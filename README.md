@@ -6,6 +6,7 @@
 | | Project | What it is |
 |---|---|---|
 | 🎧 | **[FirstCall](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/firstcall.md)** · [live](https://firstcall-psi.vercel.app) | Gen AI training that cuts call-center transfers: AI customer calls, live copilot, debriefs on first-contact resolution and NPS. Built in one day. |
+| 🤝 | **[Kindred](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/kindred.md)** · [live](https://kindred-seven-gold.vercel.app) | Volunteer once, qualify everywhere: shared training credentials unlock shifts across charities, with one-tap booking and shift group chats. Built in two days. |
 | 💸 | **[PayUp](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/payup.md)** · [live](https://yopayup.com) | Shared expenses split right in 162 currencies, from a sentence or a receipt photo; safe AI-assistant access via MCP. |
 | 📷 | **[charlesbingaman.com](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/photo-site.md)** · [live](https://www.charlesbingaman.com) | Photography portfolio, client delivery and photo map in one, with free subject-aware cropping and location privacy by design. |
 | 🗄️ | **[Vero](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/vero.md)** · [live](https://myown.life) | An operating system for your life's information: files itself, builds your timeline, claims and connections with evidence, briefs you daily, and gives AI agents safe access. |
